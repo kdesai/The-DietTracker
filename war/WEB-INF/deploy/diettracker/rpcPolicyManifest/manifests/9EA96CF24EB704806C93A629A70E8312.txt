@@ -1,0 +1,2 @@
+serviceClass: diet.client.DietTrackerService
+path: AD45F95C49571D99D147D0B56A911141.gwt.rpc

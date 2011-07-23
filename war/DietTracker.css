@@ -1,0 +1,77 @@
+.mainPanel {
+	margin: 50px auto 0px auto;
+	width: 1200px;
+}
+
+.appPanel {
+	width: 100%;
+	margin: 15px auto 0px auto;
+}
+
+.foodEatenPanel {
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.foodEatenTable {
+	border: 2px solid black;
+	margin-top: 10px;
+}
+
+.foodEatenTableHeader {
+    border-right: solid 1px;
+    background-color: #D0E4F6;
+    font-weight: bold;
+    text-align: center;
+}
+
+.foodEatenRowStyle {
+    text-align: center;
+}
+
+.foodEatenTotalsRowStyle {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.foodMealPanel {
+	margin-top: 25px;
+    width: 100%;
+}
+
+.selectFoodPanel {
+	margin: 0px auto 0px auto;
+}
+
+.selectMealPanel {
+	margin: 0px auto 0px auto;
+}
+
+
+.footerPanel {
+	margin: 10px auto 0px auto;
+}
+
+
+.manageFoodTable {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+
+.gwt-TextBox:focus, .gwt-ListBox:focus {
+  outline: silver solid 1px;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+.gwt-Label {
+	margin-right: 10px;
+}

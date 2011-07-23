@@ -1,0 +1,18 @@
+<!-- Indices written at Sat, 23 Jul 2011 19:46:56 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="Food" ancestor="false" source="auto">
+        <property name="userId" direction="asc"/>
+        <property name="name" direction="asc"/>
+    </datastore-index>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="FoodEaten" ancestor="false" source="auto">
+        <property name="dateEaten" direction="asc"/>
+        <property name="userId" direction="asc"/>
+        <property name="dateEntered" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>
