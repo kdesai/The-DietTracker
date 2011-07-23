@@ -1,0 +1,3 @@
+The DietTracker is a web application built on top of Google App Engine using the Google Web Toolkit front-end library.  Its purpose is to make daily tracking of nutrition and calories easier.
+
+You can test it out at http://thediettracker.appspot.com
